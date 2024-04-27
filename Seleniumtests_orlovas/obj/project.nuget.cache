@@ -1,8 +1,22 @@
 {
   "version": 2,
-  "dgSpecHash": "H+2V2Lxi8Ayqf0T4RPtp7YPeNhMAboeMw5Q+b4Qj2wOmgw9/C82hyPva3DWouENHgQptpbev2EVkgI5C/eaWug==",
+  "dgSpecHash": "Fk+cbjoDbjJT3Z9DmDczYFHlYivZ3UX9SJg4BPetAH/AcP8wNRCLXa5i7IrIKctufBzYPeV6wWmDQ7Hk71dCWA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Irbizz'\\RiderProjects\\Seleniumtests_orlovas\\Seleniumtests_orlovas\\Seleniumtests_orlovas.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Irbizz'\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
+    "C:\\Users\\Irbizz'\\.nuget\\packages\\fluentassertions\\7.0.0-alpha.3\\fluentassertions.7.0.0-alpha.3.nupkg.sha512",
+    "C:\\Users\\Irbizz'\\.nuget\\packages\\microsoft.codecoverage\\17.10.0-release-24177-07\\microsoft.codecoverage.17.10.0-release-24177-07.nupkg.sha512",
+    "C:\\Users\\Irbizz'\\.nuget\\packages\\microsoft.net.test.sdk\\17.10.0-release-24177-07\\microsoft.net.test.sdk.17.10.0-release-24177-07.nupkg.sha512",
+    "C:\\Users\\Irbizz'\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.10.0-release-24177-07\\microsoft.testplatform.objectmodel.17.10.0-release-24177-07.nupkg.sha512",
+    "C:\\Users\\Irbizz'\\.nuget\\packages\\microsoft.testplatform.testhost\\17.10.0-release-24177-07\\microsoft.testplatform.testhost.17.10.0-release-24177-07.nupkg.sha512",
+    "C:\\Users\\Irbizz'\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Irbizz'\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512",
+    "C:\\Users\\Irbizz'\\.nuget\\packages\\selenium.webdriver\\4.19.0\\selenium.webdriver.4.19.0.nupkg.sha512",
+    "C:\\Users\\Irbizz'\\.nuget\\packages\\seleniumextras.waithelpers\\1.0.2\\seleniumextras.waithelpers.1.0.2.nupkg.sha512",
+    "C:\\Users\\Irbizz'\\.nuget\\packages\\system.configuration.configurationmanager\\4.4.0\\system.configuration.configurationmanager.4.4.0.nupkg.sha512",
+    "C:\\Users\\Irbizz'\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512",
+    "C:\\Users\\Irbizz'\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.4.0\\system.security.cryptography.protecteddata.4.4.0.nupkg.sha512"
+  ],
   "logs": []
 }
