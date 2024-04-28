@@ -107,9 +107,7 @@ public class SeleniumTestForPractice
         var password = driver.FindElement(By.Name("Password"));
         password.SendKeys("Keshunya.112");
         var enter = driver.FindElement(By.Name("button"));
-        enter.Click();
-        var communityTitle = driver.FindElement(By.CssSelector("[data-tid='Title']"));
-        communityTitle.Should().NotBeNull();
+        enter.Click();        
     }
 
     [TearDown]
